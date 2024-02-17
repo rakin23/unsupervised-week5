@@ -3,4 +3,4 @@
 The Jupyter notebook in this repository contains the code to create various learning algorithms to look at passenger data from the Titanic and predict whether each passenger will survive.  
 
 ## Video demo
-A video demonstration of this project can be found here on YouTube: [add link here](http://www.youtube.com).
+A video demonstration of this project can be found [here on YouTube](http://www.youtube.com).
